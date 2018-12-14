@@ -1,6 +1,6 @@
 # Skater
 
-A framework for benchmarking shell-commands written in Haskell.
+A framework for benchmarking shell-commands. Written in Haskell.
 
 ## Goals
 The idea is to provide a simple, but precise, easy-to-use environment where it is possible to launch benchmarks and collect execution time.
