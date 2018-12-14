@@ -1,0 +1,18 @@
+{
+  "type" : "RepeatTest"
+  , "nRepeat" : 3
+  , "benchmark":
+  {
+    "type" : "ListTest"
+    , "name" : "Awesome List"
+    , "testList": 
+      [
+        { "type" : "UnitTest"
+        , "name" : "LS COMMAND"
+        , "command" : "ls"
+        , "outFile" : "/dev/stdout"
+        , "inFile"  : "/dev/null"
+        }
+      ]
+  }
+}

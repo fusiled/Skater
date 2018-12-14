@@ -1,0 +1,4 @@
+{
+  "forwardLogToStdErr" : true
+  ,"logPath" : "./log.log2" 
+}
